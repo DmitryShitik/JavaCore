@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3df4ae6c-7fbb-425f-bb10-3a09b285cd82" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../AutoArray/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoArray/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoArray/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Average/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Average/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Average/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMath/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMath/out/production/BasicMath/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicMath/out/production/BasicMath/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicMath/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicMath/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Matrix/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Matrix/out/production/Matrix/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Matrix/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Matrix/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulus/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeDmatrix/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeDmatrix/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeDmatrix/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeDmatrix/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeDmatrix/TreeDmatrix.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeDmatrix/out/production/TreeDmatrix/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeDmatrix/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TwoDArray/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TwoDArray/out/production/TwoDArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TwoDArray/out/production/TwoDArray/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TwoDArray/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TwoDArray/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dinamikInit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dinamikInit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dinamikInit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dinamikInit/dinamikInit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dinamikInit/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doublePoint/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doublePoint/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doublePoint/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doublePoint/doublePoint.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doublePoint/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logik/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logik/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logik/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logik/logik.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logik/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass/mass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass/out/production/mass/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mass/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblast/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblast/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblast/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblast/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblast/oblast.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblast/out/production/oblast/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblast/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simvol/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simvol/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simvol/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simvol/simvol.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simvol/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twoDAgain/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twoDAgain/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twoDAgain/out/production/twoDAgain/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../twoDAgain/out/production/twoDAgain/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twoDAgain/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../twoDAgain/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typeDate/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typeDate/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typeDate/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typeDate/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typeDate/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typeDate/typeDate.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2R4kPv1uLwFnbjv4Feg57K7fNzy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3df4ae6c-7fbb-425f-bb10-3a09b285cd82" name="Changes" comment="" />
+      <created>1686516720372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686516720372</updated>
+    </task>
+    <servers />
+  </component>
+</project>
