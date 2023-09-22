@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Three project</string>
+    <string name="text_logo">Value</string>
+    <string name="text_btn1">btn1</string>
+    <string name="text_btn2">btn2</string>
+    <string name="text_btn3">btn3</string>
+</resources>

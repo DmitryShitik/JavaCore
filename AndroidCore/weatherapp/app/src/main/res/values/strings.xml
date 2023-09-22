@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firstPr</string>
+    <string name="logo">Weather</string>
+    <string name="hind_user_fiend">Choose the city</string>
+    <string name="main_btn">Check the weather</string>
+    <string name="incorrectWords">Incorrect request</string>
+    <string name="waiting">Waiting</string>
+</resources>
